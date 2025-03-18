@@ -17,8 +17,8 @@ Blekinge Institute of Technology
 
 ## Table of Contents
 1. [Introduction](#Introduction)
-2. [Focus Area](#Focus Area) 
-3. [Motive and Value]
+2. [Focus Area](#Focus-Area) 
+3. [Motive and Value](#Motive-and-Value)
 
 
 ## Introduction
