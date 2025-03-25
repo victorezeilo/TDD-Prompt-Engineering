@@ -8,7 +8,7 @@ Cafl22@student.bth.se,
 [Blekinge Institute of Techonolgy]
 
 **Theodore Reangpusri**  
-[mail  
+Thre21@student.bth.se, 
 [Blekinge Institute of Techonolgy]
 
 ## Supervisor
@@ -23,6 +23,7 @@ In this experiment, you will implement a Concert Itinerary Builder that creates 
 2. Write three unit tests with AI assistance
 3. Implement the code to make all tests pass
 4. Refactor your solution as needed
+
 
 ## Test-Driven Development (TDD) Overview
 
@@ -56,6 +57,8 @@ The Concert Itinerary Builder must meet the following requirements:
 
 - Python 3.7 or higher
 - Coverage.py: `pip install coverage`
+- Git & GitHub proficiency: cloning repositories, committing changes, pushing updates
+- IDE or code editor
 
 ### Setup
 
@@ -74,15 +77,15 @@ The Concert Itinerary Builder must meet the following requirements:
 
 ## Experiment Instructions
 
-Run the command `python run.py` to start the experiment. You will be assigned which constraints to implement manually and with AI assistance.
+Run the command `python run.py`(windows) or `python3 run.py`(Linux) to start the experiment. You will be assigned which constraints to implement manually and with AI assistance.
 
-You will need to run run.py to track the tests ran, keep in mind to run the run.py again after changing the test.py file or the main.py file. The file does not track changes in real time.
+You will need to run [run.py](run.py) to track the tests ran, keep in mind to run the run.py again after changing the [test.py](test.py) file or the [main.py](main.py) file. The file does not track changes in real time.
 
 ### Part 1: Manual TDD Cycle
 
 1. Red Phase:
    - Open `test.py` and locate the section for manual tests
-   - Write three comprehensive test cases for the assigned constraints
+   - Write three comprehensive test cases for the assigned constraints, saving the test cases in [TestCase](test.txt) or creating a new map for them is optional.
    - Run your tests using `python run.py` and select option 1 (tests should fail)
    - Record the time spent on this task using the run.py tool (option 4)
 
@@ -99,7 +102,7 @@ You will need to run run.py to track the tests ran, keep in mind to run the run.
 ### Part 2: AI-Assisted TDD Cycle
 
 1. Red Phase:
-   - Use an AI assistant to help you write three additional test cases
+   - Use an AI assistant to help you write three additional test cases, saving the test cases in [TestCase](test.txt) or creating a new map for them is optional.
    - Implement the AI-suggested tests in the designated section of `test.py`
    - Run your tests using `python run.py` and select option 1 (new tests should fail)
    - Record the time spent on this task using the run.py tool (option 4)
@@ -131,7 +134,7 @@ The `run.py` script provides a simple interface for:
 - Viewing experiment progress
 - Recording time spent on tasks
 
-To use the script, run `python run.py` and follow the on-screen prompts.
+To use the script, run `python run.py`(Windows) or `python3 run.py`(Linux) and follow the on-screen prompts.
 
 ## Dataset
 
