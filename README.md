@@ -20,7 +20,7 @@ Blekinge Institute of Technology
 In this experiment, you will implement a Concert Itinerary Builder that creates an optimized concert schedule based on a list of available concerts. You will:
 
 1. Write three unit tests manually
-2. Write three unit tests with AI assistance
+2. Write three unit tests with AI assistance using (ChatGPT 4o model)[https://chatgpt.com/?model=gpt-4o&utm_source=chatgpt.com]
 3. Implement the code to make all tests pass
 4. Refactor your solution as needed
 
@@ -59,10 +59,11 @@ The Concert Itinerary Builder must meet the following requirements:
 - Coverage.py: `pip install coverage`
 - Git & GitHub proficiency: cloning repositories, committing changes, pushing updates
 - IDE or code editor
+- Access to internet
 
 ### Setup
 
-1. Clone this repository to your local machine
+1. Fork this repository to your local machine
 2. Install the required dependencies using `pip install -r requirements.txt`
 3. Familiarize yourself with the codebase structure
 
