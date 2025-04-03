@@ -20,7 +20,7 @@ Blekinge Institute of Technology
 In this experiment, you will implement a Concert Itinerary Builder that creates an optimized concert schedule based on a list of available concerts. You will:
 
 1. Write three unit tests manually
-2. Write three unit tests with AI assistance using (ChatGPT 4o model)[https://chatgpt.com/?model=gpt-4o&utm_source=chatgpt.com]
+2. Write three unit tests with AI assistance using [ChatGPT 4o model](https://chatgpt.com/?model=gpt-4o&utm_source=chatgpt.com)
 3. Implement the code to make all tests pass
 4. Refactor your solution as needed
 
