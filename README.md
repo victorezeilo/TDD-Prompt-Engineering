@@ -86,7 +86,7 @@ You will need to run [run.py](run.py) to track the tests ran, keep in mind to ru
 
 1. Red Phase:
    - Open `test.py` and locate the section for manual tests
-   - Write three comprehensive test cases for the assigned constraints, saving the test cases in [TestCase](test.txt) or creating a new map for them is optional.
+   - Write three comprehensive test cases for the assigned constraints, saving the test cases in [TestCase](test.txt) or creating a new folder for them is optional.
    - Run your tests using `python run.py` and select option 1 (tests should fail)
    - Record the time spent on this task using the run.py tool (option 4)
 
